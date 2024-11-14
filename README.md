@@ -39,3 +39,10 @@ GPS: 50.07071, 8.75781 - Höhe: 139m - Km: 5,81<br>
 <b>7. Weißes Kreuz</b><br>
 GPS: 50.07002, 8.76562 - Höhe: 134m - Km: 6,46<br>
 ![wp-7_small](https://github.com/user-attachments/assets/c300c45f-96a1-4888-a960-3e66653f5167)
+
+
+<b>8. Alter Siedlungsplatz</b><br>
+<b>9. Bäche und Gräben</b><br>
+<b>10. August-Reiß-Eiche</b><br>
+<b>11. AWO Hainbachtal</b><br>
+<b>12. Hainbachskopf</b><br>
