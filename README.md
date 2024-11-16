@@ -43,23 +43,31 @@ GPS: 50.07000, 8.76552 - Höhe: 134m - Km: 6,5<br>
 
 <b>8. Alter Siedlungsplatz</b><br>
 GPS: 50.07277, 8.77146 - Höhe: 131m - Km: 7,1<br>
+![wp-8_small](https://github.com/user-attachments/assets/6097d07d-df25-4a59-8b44-d6a5f7da4911)
 
 
 <b>9. Bäche und Gräben</b><br>
 GPS: 50.07547, 8.77632 - Höhe: 131m - Km: 7,5<br>
+![wp-9_small](https://github.com/user-attachments/assets/0d5c97b4-bc40-4f62-a6df-83b15be74aae)
 
 
 <b>10. August-Reiß-Eiche</b><br>
 GPS: 50.07600, 8.77655 - Höhe: 129m - Km: 7,6<br>
+![wp-10_small](https://github.com/user-attachments/assets/4cc9073f-a763-49e2-9b11-57e61252dc63)
 
 
 <b>11. AWO Hainbachtal</b><br>
 GPS: 50.07529, 8.77883 - Höhe: 123m - Km: 7,9<br>
+![wp-11_small](https://github.com/user-attachments/assets/06275771-f647-4b43-b27a-c602c2bf6e26)
 
 
 <b>12. Hainbachskopf</b><br>
 GPS: 50.07518, 8.78424 - Höhe: 133m - Km: 8,3<br>
+![wp-12_small](https://github.com/user-attachments/assets/4eeb1d23-0902-4706-9950-4c8f3fb16893)
 
 
 <b>13. Offenbacher Stadtwald</b><br>
 GPS: 50.07585, 8.78967 - Höhe: 134m - Km: 8,7<br>
+![wp-13_small](https://github.com/user-attachments/assets/1cce6d21-bdd4-41e7-8428-b1cb1ee6c080)
+
+
