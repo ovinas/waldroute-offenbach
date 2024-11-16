@@ -1,5 +1,5 @@
 # Waldroute Offenbach am Main
-Informationen inkl. Bildern und einer verbesserten GPX-Datei zur Waldroute in Offenbach am Main
+Informationen inkl. Bildern und einer verbesserten GPX-Datei zur Waldroute in Offenbach am Main (WIP)
 
 <b>0. Startpunkt</b><br>
 GPS: 50.09844, 8.74863 - Höhe: 105m - Km: 0<br>
