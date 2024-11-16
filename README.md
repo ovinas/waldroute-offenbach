@@ -71,3 +71,16 @@ GPS: 50.07585, 8.78967 - Höhe: 134m - Km: 8,7<br>
 ![wp-13_small](https://github.com/user-attachments/assets/1cce6d21-bdd4-41e7-8428-b1cb1ee6c080)
 
 
+<b>14. Die Bieber</b><br>
+<b>15. Erlensteg von Bieber</b><br>
+<b>16. Alte Römerstraße</b><br>
+<b>17. Bieberer Wald</b><br>
+<b>18. Waldhof</b><br>
+<b>19. Mühlheimer Wald</b><br>
+<b>20. Käsmühle</b><br>
+<b>21. Rodgauer Landwehr</b><br>
+<b>22. An den Eichen</b><br>
+<b>23. Alte Grenze</b><br>
+<b>24. Schneckenberg</b><br>
+<b>25. Lohwald</b><br>
+<b>26. Endpunkt</b><br>
