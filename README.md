@@ -10,6 +10,7 @@ GPS: 50.09844, 8.74863 - Höhe: 105m - Km: 0<br>
 <b>1. Frankfurter Stadtwald</b><br>
 GPS: 50.09742, 8.74495 - Höhe: 112m - Km: 0,3<br>
 ![wp-1_small](https://github.com/user-attachments/assets/0ad56c83-67d0-4dc3-9770-a3127a9efe99)
+![wp-1a_small](https://github.com/user-attachments/assets/dcb59f0f-7be9-401f-a9b8-4a64e2ce0875)
 
 
 <b>2. Buchrainweiher</b><br>
