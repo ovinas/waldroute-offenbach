@@ -4,6 +4,7 @@ Informationen inkl. Bildern und einer verbesserten GPX-Datei zur Waldroute in Of
 <b>0. Startpunkt</b><br>
 GPS: 50.09844, 8.74863 - Höhe: 105m - Km: 0<br>
 ![wp-0_small](https://github.com/user-attachments/assets/e469e7a5-4086-49a1-816d-7cfa676c700e)
+![wp-0a_small](https://github.com/user-attachments/assets/0258d4ee-c3b5-481b-a24c-fe38d0fa40f3)
 
 
 <b>1. Frankfurter Stadtwald</b><br>
