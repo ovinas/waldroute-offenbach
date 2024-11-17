@@ -39,12 +39,14 @@ GPS: 50.07079, 8.73961 - Höhe: 137m - Km: 4,5<br>
 
 <b>6. Wildhof</b><br>
 GPS: 50.07077, 8.75768 - Höhe: 139m - Km: 5,8<br>
+Wildhof Gaststätte GPS: 50.06020, 8.77546<br>
 ![wp-6_small](https://github.com/user-attachments/assets/e62cd7e0-e655-493c-8ace-e1a0294990b9)
 ![wp-6a_small](https://github.com/user-attachments/assets/ee83b006-5265-4036-9680-3c78c89bee0d)
 
 
 <b>7. Weißes Kreuz</b><br>
 GPS: 50.07000, 8.76552 - Höhe: 134m - Km: 6,5<br>
+Weißes Kreuz GPS: 50.06823, 8.76766<br>
 ![wp-7_small](https://github.com/user-attachments/assets/c300c45f-96a1-4888-a960-3e66653f5167)
 ![wp-7a_small](https://github.com/user-attachments/assets/43a06437-0c6b-4118-9002-860fb524cdac)
 
@@ -63,6 +65,7 @@ GPS: 50.07547, 8.77632 - Höhe: 131m - Km: 7,5<br>
 
 <b>10. August-Reiß-Eiche</b><br>
 GPS: 50.07600, 8.77655 - Höhe: 129m - Km: 7,6<br>
+August-Reiß-Eiche GPS: 50.07637, 8.77181<br>
 ![wp-10_small](https://github.com/user-attachments/assets/4cc9073f-a763-49e2-9b11-57e61252dc63)
 ![wp-10a_small](https://github.com/user-attachments/assets/6bc8af52-7962-40ff-a9ea-c985b402deea)
 
