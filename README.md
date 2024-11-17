@@ -86,10 +86,35 @@ GPS: 50.07585, 8.78967 - Höhe: 134m - Km: 8,7<br>
 
 
 <b>14. Die Bieber</b><br>
+GPS: 50.07525, 8.80206 - Höhe: 119m - Km: 9,8<br>
+![wp-14_small](https://github.com/user-attachments/assets/a3b041c4-312f-4db8-9313-ff1ce1d5ebf5)
+![wp-14a_small](https://github.com/user-attachments/assets/b02a859d-a1cd-4394-8cc6-42518af0296c)
+
+
 <b>15. Erlensteg von Bieber</b><br>
+GPS: 50.07775, 8.81271 - Höhe: 116m - Km: 10,9<br>
+![wp-15_small](https://github.com/user-attachments/assets/d2d19114-4691-43c5-a415-644776c2ce73)
+![wp-15a_small](https://github.com/user-attachments/assets/9837ed10-72e2-4033-835d-9df9a7def212)
+
+
 <b>16. Alte Römerstraße</b><br>
+GPS: 50.08296, 8.81988 - Höhe: 115m - Km: 11,9<br>
+![wp-16_small](https://github.com/user-attachments/assets/ac5dd57d-3806-4671-9b1e-87dea7267d6f)
+![wp-16a_small](https://github.com/user-attachments/assets/8b3e62f7-03aa-4dee-b852-bb91afe2b09b)
+
+
 <b>17. Bieberer Wald</b><br>
+GPS: 50.08184, 8.82663 - Höhe: 120m - Km: 12,4<br>
+![wp-17_small](https://github.com/user-attachments/assets/337137b2-714f-4add-9510-e6e15743adf4)
+![wp-17a_small](https://github.com/user-attachments/assets/5ab597c6-c49d-4b93-82e6-aec0657b563c)
+
+
 <b>18. Waldhof</b><br>
+GPS: 50.08472, 8.82765 - Höhe: 115m - Km: 13,2<br>
+![wp-18_small](https://github.com/user-attachments/assets/4010f211-5de2-413f-a8a9-9aec212b619a)
+![wp-18a_small](https://github.com/user-attachments/assets/40a86187-f737-4340-b688-111446120633)
+
+
 <b>19. Mühlheimer Wald</b><br>
 <b>20. Käsmühle</b><br>
 <b>21. Rodgauer Landwehr</b><br>
