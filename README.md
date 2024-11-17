@@ -46,9 +46,10 @@ Wildhof Gaststätte GPS: 50.06020, 8.77546<br>
 
 <b>7. Weißes Kreuz</b><br>
 GPS: 50.07000, 8.76552 - Höhe: 134m - Km: 6,5<br>
-Weißes Kreuz GPS: 50.06823, 8.76766<br>
 ![wp-7_small](https://github.com/user-attachments/assets/c300c45f-96a1-4888-a960-3e66653f5167)
-![wp-7a_small](https://github.com/user-attachments/assets/43a06437-0c6b-4118-9002-860fb524cdac)
+![wp-7a_small](https://github.com/user-attachments/assets/43a06437-0c6b-4118-9002-860fb524cdac)<br>
+Weißes Kreuz GPS: 50.06823, 8.76766<br>
+![wp-7b_small](https://github.com/user-attachments/assets/5065a90c-92cb-4721-b61e-cc8919c638c8)
 
 
 <b>8. Alter Siedlungsplatz</b><br>
@@ -65,9 +66,10 @@ GPS: 50.07547, 8.77632 - Höhe: 131m - Km: 7,5<br>
 
 <b>10. August-Reiß-Eiche</b><br>
 GPS: 50.07600, 8.77655 - Höhe: 129m - Km: 7,6<br>
-August-Reiß-Eiche GPS: 50.07637, 8.77181<br>
 ![wp-10_small](https://github.com/user-attachments/assets/4cc9073f-a763-49e2-9b11-57e61252dc63)
-![wp-10a_small](https://github.com/user-attachments/assets/6bc8af52-7962-40ff-a9ea-c985b402deea)
+![wp-10a_small](https://github.com/user-attachments/assets/6bc8af52-7962-40ff-a9ea-c985b402deea)<br>
+August-Reiß-Eiche GPS: 50.07637, 8.77181<br>
+![wp-10b_small](https://github.com/user-attachments/assets/b2979c22-81c5-4ef3-b80b-e408f72e4836)
 
 
 <b>11. AWO Hainbachtal</b><br>
