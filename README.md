@@ -121,10 +121,48 @@ GPS: 50.08472, 8.82765 - Höhe: 115m - Km: 13,2<br>
 
 
 <b>19. Mühlheimer Wald</b><br>
+GPS: 50.09831, 8.83666 - Höhe: 121m - Km: 15,9<br>
+![wp-19_small](https://github.com/user-attachments/assets/8dbb5cb2-ee28-4843-bdba-2b47ee75f112)
+![wp-19a_small](https://github.com/user-attachments/assets/a7fb4791-e043-4cdb-b1c7-fe6372548fe4)
+
+
 <b>20. Käsmühle</b><br>
+GPS: 50.10051, 8.82384 - Höhe: 114m - Km: 16,9<br>
+![wp-20_small](https://github.com/user-attachments/assets/88fa3149-2afc-4139-ba63-d2f1bb2251d6)
+![wp-20a_small](https://github.com/user-attachments/assets/816c075e-b02c-4cd8-a5f1-165878cb02b6)
+
+
 <b>21. Rodgauer Landwehr</b><br>
+GPS: 50.10128, 8.82303 - Höhe: 112m - Km: 17,0<br>
+![wp-21_small](https://github.com/user-attachments/assets/69e465fa-e69f-45d2-9a17-9265bded1623)
+![wp-21a_small](https://github.com/user-attachments/assets/da9b3841-ca86-42cd-9272-cf2554fc2c73)
+
+
 <b>22. An den Eichen</b><br>
+GPS: 50.10553, 8.81387 - Höhe: 124m - Km: 18,0<br>
+![wp-22_small](https://github.com/user-attachments/assets/9a9b5ed8-1d0c-45ae-930b-beb1909ade1d)
+![wp-22a_small](https://github.com/user-attachments/assets/b2a1d7d6-06b3-4e87-8dd5-7c231d57154e)
+
+
 <b>23. Alte Grenze</b><br>
-<b>24. Schneckenberg</b><br>
-<b>25. Lohwald</b><br>
+GPS: 50.10552, 8.81379 - Höhe: 125m - Km: 18,0<br>
+![wp-23_small](https://github.com/user-attachments/assets/37bce20e-d35d-408c-90e0-85033aba1b3f)
+![wp-23a_small](https://github.com/user-attachments/assets/54b8f5e5-ea8b-479f-89de-e4b852ff6fcd)
+
+
+<b>24. Lohwald</b><br>
+GPS: 50.10638, 8.80282 - Höhe: 121m - Km: 18,8<br>
+![wp-24_small](https://github.com/user-attachments/assets/1d655b8f-369b-4948-b990-fbb261c7b97a)
+![wp-24a_small](https://github.com/user-attachments/assets/813837de-7ffb-4543-92ff-1f088df006b3)
+
+
+<b>25. Schneckenberg</b><br>
+GPS: 50.10595, 8.80042 - Höhe: 124m - Km: 18,9<br>
+![wp-25_small](https://github.com/user-attachments/assets/46ecbf61-1c74-4602-a73d-4361d4040cd0)
+![wp-25a_small](https://github.com/user-attachments/assets/a91f0817-f61c-4422-a4bd-410f8647cad4)
+
+
 <b>26. Endpunkt</b><br>
+GPS: 50.10434, 8.79411 - Höhe: 115m - Km: 19,4<br>
+![wp-26_small](https://github.com/user-attachments/assets/2b6170b1-31d0-451c-aa18-3176b30b6e0f)
+![wp-26a_small](https://github.com/user-attachments/assets/04df6e8a-5dd5-468c-a340-5b7806db36f4)
